@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaryan Kumar</h1>
 <h3 align="center">A passionate about AI, ML, and Cybersecurity</h3>
 
-<img  align="right" alt="coding" width="400" alt="image" src="https://github.com/user-attachments/assets/bb2f1971-4e89-41a8-bc8f-d1651c3a0c65" />
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan17012004&label=Profile%20views&color=0e75b6&style=flat" alt="aryan17012004" /> </p>
 
